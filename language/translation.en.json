@@ -1,0 +1,7 @@
+{
+    "BAD_REQUEST": "Bad Request",
+    "TRY_AGAIN": "Try Again",
+    "ORDER_SUCCESS": "Order Successfully Created",
+    "INVALID_INVENTORY_ID": "Invalid InventoryId",
+    "UNAVAILABLE_QUANTITY": "Unavailable Quanitity"
+}
